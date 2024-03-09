@@ -60,11 +60,11 @@ public class Interfaz extends javax.swing.JFrame {
         jLabel2.setForeground(new java.awt.Color(0, 102, 102));
         jLabel2.setText("Agregar Productos");
 
-        jLabel3.setText("jLabel3");
+        jLabel3.setText("Nombre");
 
-        jLabel4.setText("jLabel4");
+        jLabel4.setText("Precio");
 
-        jLabel5.setText("jLabel5");
+        jLabel5.setText("Inventario");
 
         btnAgregar.setText("Agregar");
 
